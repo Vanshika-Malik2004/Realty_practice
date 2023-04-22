@@ -573,4 +573,8 @@ body {
   }
 }
 @media screen and (max-width: 600px) {
+  #faq_list {
+    justify-content: center;
+    align-items: center;
+  }
 }

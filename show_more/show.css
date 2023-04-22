@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #fff;
 }
 .house {
   display: flex;
@@ -23,7 +23,7 @@ body {
 }
 * {
   font-size: 0.8rem;
-  color: white;
+  color: black;
 }
 .visible {
   display: flex;
